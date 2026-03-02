@@ -39,8 +39,8 @@ I am a versatile, self-driven learner on a journey to build a solid career found
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levantuyen682&show_icons=true&theme=radium&hide_border=true" alt="Silas's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levantuyen682&theme=radium&hide_border=true" alt="Silas's GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=levantuyen682&show_icons=true&theme=radium&hide_border=true" alt="Tuyen GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levantuyen682&theme=radium&hide_border=true" alt="Tuyen GitHub streak" width="48%" />
 </p>
 
 ---
