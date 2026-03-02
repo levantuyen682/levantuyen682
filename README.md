@@ -49,4 +49,4 @@ I am a versatile, self-driven learner on a journey to build a solid career found
 
 - 📧 Email: levantuyen682@gmail.com
 - 💼 LinkedIn: [@levantuyen682](http://www.linkedin.com/in/levantuyen682)
-- 🌐 Portfolio: levantuyen.com
+- 🌐 Portfolio: https://www.levantuyen.com
